@@ -1,8 +1,8 @@
 # Unit 12 MySQL Homework: Employee Tracker
 
-  * Created by Erik Adames
+  * Created by davidmichaelhughey@gmail.com
 
-  * Github Repo Link: https://github.com/egadames/hw10
+  * Github Repo Link: https://github.com/Eyeball1/hw10
 
 ## Description 
 
@@ -62,5 +62,6 @@
 
   * User GitHub email
 
-    * Email: egadames990@gmail.com
+    * Email: davidmichaelhughey@gmail.com
+
   
